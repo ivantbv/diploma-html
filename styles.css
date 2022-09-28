@@ -15,6 +15,27 @@ body {
     padding-right: 90.9px;
 }
 
+
+
+#closing-widget {
+    font-size: 50px;
+    display: flex;
+    justify-content: end;
+}
+
+.justwidget--button {    
+    /* width: 30% !important; 
+    padding: 2px !important; */
+    background: radial-gradient(circle at 50% center, rgb(27, 214, 65) 0%, rgb(48, 96, 144) 23%, rgb(75, 250, 7) 100%) !important;
+    color: white !important;
+ }
+
+ .justwidget--buttons-inline a {
+    /* background-image: url(https://upload.wikimedia.org/wikipedia/commons/1/10/Red_Color.jpg) !important;
+    background-size: contain !important; */
+    background: red !important;
+}
+
 .top_header {
     z-index: 0;
     height: 335px;
